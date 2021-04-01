@@ -7,7 +7,7 @@ package za.ac.cput.adp2assignment1;
 
 /**
  *
- * @author Bavuyise Mpila 216061067
+ * @author Sinazo Gwabeni 216278015
  */
 public class Calculator {
     /**
