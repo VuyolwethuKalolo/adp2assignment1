@@ -10,7 +10,24 @@ package za.ac.cput.adp2assignment1;
  * @author VUYOLWETHU
  */
 public class Calculator {
+    /**
+     * adding two numbers
+     * @param a
+     * @param b
+     * @return 
+     */
     public int addition(int a , int b){
+    
+    return a  + b;
+    }
+    
+    /**
+     * subtracting two numbers
+     * @param a
+     * @param b
+     * @return 
+     */
+     public int subraction(int a , int b){
     
     return a  + b;
     }

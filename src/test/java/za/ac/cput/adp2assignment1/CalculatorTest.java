@@ -51,6 +51,11 @@ public class CalculatorTest {
     
     int result=calculate.addition(3 , 7);
     assertEquals(10, result);
+
     }
-    
+    @Test
+     public void testSubraction(){
+    int result=calculate.subraction(7, 3);
+    assertEquals(10, result);
+     }
 }
